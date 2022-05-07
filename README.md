@@ -16,5 +16,5 @@ Take a look at these other examples that I have in my portfolio:
 
 **Yggdrasil:** https://github.com/raeplusplus/Yggdrasil
 
-**Vaxman Game:** https://github.com/raeplusplus/ea-vaxman-py
+**EA Internship - Vaxman Game:** https://github.com/raeplusplus/ea-vaxman-py
 
